@@ -27,33 +27,6 @@ npm install
 npm install -D tailwindcss @tailwindcss/vite
 npx tailwindcss init -p
 
-### 3. Configure Tailwind
-Update your tailwind.config.js like this:
-
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
-In src/index.css, add the Tailwind directives:
-
-css
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-### 4. Run the Development Server
-
-npm run dev
-Visit http://localhost:5173 in your browser.
-
 🛠 Technologies Used
 React
 
