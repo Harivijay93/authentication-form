@@ -43,7 +43,7 @@ export const SignInSignUp = () => {
                     <p className='text-blue-200/70 text-center text-sm mb-4'>Or continue with</p>
                     <div className='flex justify-center space-x-6'>
                         <button className='p-3 bg-blue-900/40 rounded-lg hover:bg-blue-800/50
-                        transition-colors text-yellow-'></button>
+                        transition-colors text-yellow-300'></button>
                     </div>
                 </div>
             </div>
