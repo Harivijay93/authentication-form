@@ -52,7 +52,7 @@ authentication-form/
 Made with ❤️ by Hari
 
 ### ✅ Tip:
-Replace `your-username` with your actual GitHub username before pushing.
+Replace `Harivijay93` with your actual GitHub username before pushing.
 
 Let me know if you also want:
 - GitHub Pages or Vercel deployment instructions
